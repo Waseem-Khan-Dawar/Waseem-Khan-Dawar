@@ -2,7 +2,7 @@
 Myself **Waseem Khan**  
 ### An Undergraduate Student of **BS Computer Science** at Kohat University of Science and Technology, Kohat
 
-![Coding](https://img.freepik.com/premium-vector/boy-is-sitting-desk-with-laptop-word-code-it_1177960-38395.jpg)
+![Coding]([https://img.freepik.com/premium-vector/boy-is-sitting-desk-with-laptop-word-code-it_1177960-38395.jpg](https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg))
 
 ---
 
