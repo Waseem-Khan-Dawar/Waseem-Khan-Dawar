@@ -2,13 +2,13 @@
 Myself **Waseem Khan**  
 ### An Undergraduate Student of **BS Computer Science** at Kohat University of Science and Technology, Kohat
 
-![Coding]([https://img.freepik.com/premium-vector/boy-is-sitting-desk-with-laptop-word-code-it_1177960-38395.jpg](https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg))
+![Image](https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg)
 
 ---
 
 🌱 I’m currently learning **Machine Learning and ReactJS**
 
-🤝 I’m looking for help from **Professional Computer Scientists across the globe**
+🤝 I’m looking for help from **Professional Software Engineers across the globe**
 
 💬 Ask me about **Object Oriented Programming, Python Programming, Data Structures and Algorithms, Database Concepts**
 
