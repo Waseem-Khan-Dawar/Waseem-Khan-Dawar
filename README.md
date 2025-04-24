@@ -2,7 +2,8 @@
 ### I'm Waseem Khan  
 #### Undergraduate Student of Computer Science  
 
-![Coding](https://camo.githubusercontent.com/ef57c24d79e397b2c7b07d24c4c8720960a08f8d2bb74fb37ad3a1d83eb6ae7f/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f4f49502e6e57515f55354e4b45664e6547435466685f322d4d77486145713f72733d31267069643d496d674465744d61696e)  
+![Coding](![Coding](https://thumbs.dreamstime.com/b/cute-cartoon-programmer-focused-software-testing-cluttered-desk-ideal-illustrating-tech-creativity-digital-work-344058864.jpg)
+)  
 ![Profile Views](https://komarev.com/ghpvc/?username=waseemkhan&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
