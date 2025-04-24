@@ -41,3 +41,5 @@ Myself **Waseem Khan**
 [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=apachespark&logoColor=white)](https://scikit-learn.org/)
 
 ---
+
+![Ansible Collection Badge](https://img.shields.io/ansible/collection/d/community/docker)
