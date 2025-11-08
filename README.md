@@ -1,6 +1,5 @@
 # Greetings! 👋  
 Myself **Waseem Khan**  
-### An Undergraduate Student of **BS Computer Science** at Kohat University of Science and Technology, Kohat
 
 ![Image](https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg)
 
